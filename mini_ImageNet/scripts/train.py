@@ -10,6 +10,8 @@ from utils.generator.generators_test import miniImageNetGenerator as test_loader
 
 from utils.model import Runner
 
+# test line
+
 def str2bool(v):
     if isinstance(v, bool):
        return v
